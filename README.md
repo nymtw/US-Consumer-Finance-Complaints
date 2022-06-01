@@ -18,6 +18,6 @@ For this research, we use data with range 01/01/2019 - 31/04/2022.
 For better interpretation, please kindly check the presentation file (pdf) and source code.
 
 ## References
-CFPB Database : https://www.consumerfinance.gov/data-research/consumer-complaints/
-Kaggle : https://www.kaggle.com/datasets/kaggle/us-consumer-finance-complaints
-Github : https://github.com/bmserafim/USA-consumer-complaints  &  https://github.com/jiegzhan/multi-class-text-classification-cnn
+### CFPB Database : https://www.consumerfinance.gov/data-research/consumer-complaints/
+### Kaggle : https://www.kaggle.com/datasets/kaggle/us-consumer-finance-complaints
+### Github : https://github.com/bmserafim/USA-consumer-complaints  &  https://github.com/jiegzhan/multi-class-text-classification-cnn
